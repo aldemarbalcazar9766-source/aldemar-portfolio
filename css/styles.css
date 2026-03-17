@@ -32,6 +32,9 @@
   --border:      #e2e8f0;
   --white:       #ffffff;
 
+  section {
+  scroll-margin-top: 100px;
+}
   /* Tipografía */
   --font-title: 'Montserrat', sans-serif;
   --font-body:  'Open Sans', sans-serif;
